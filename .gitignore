@@ -1,0 +1,5 @@
+# ros related files
+.catkin_tools
+build
+devel
+logs
