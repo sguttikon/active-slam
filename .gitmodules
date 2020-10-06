@@ -1,3 +1,6 @@
 [submodule "catkin_ws/src/openai-rosbot-env"]
 	path = catkin_ws/src/openai-rosbot-env
 	url = https://github.com/suresh-guttikonda/openai-rosbot-env.git
+[submodule "catkin_ws/src/active-localization"]
+	path = catkin_ws/src/active-localization
+	url = https://github.com/suresh-guttikonda/active-localization.git
