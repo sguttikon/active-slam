@@ -4,3 +4,6 @@
 [submodule "catkin_ws/src/active-localization"]
 	path = catkin_ws/src/active-localization
 	url = https://github.com/suresh-guttikonda/active-localization.git
+[submodule "catkin_ws/src/sim-environment"]
+	path = catkin_ws/src/sim-environment
+	url = https://github.com/suresh-guttikonda/sim-environment.git
